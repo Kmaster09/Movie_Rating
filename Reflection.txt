@@ -1,0 +1,9 @@
+#1 The inner if is only evaluated if the outer if condition is true while 
+A nested if is when one if statement is placed inside another if statement.
+2 Switch and if-else statements are conditional constructs used to control the of a program based on specific conditions. their usage depends on the nature of the conditions and to read code to perform the code.
+3 it makes like code that checks a lot of conditions in a single line making a line of code that leads
+decision making.
+4 Short circut evaluation gets a logical thing and express it in a way the code undrstand logical.
+
+
+
